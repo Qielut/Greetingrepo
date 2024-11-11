@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class GreetingComponent {
 	
 	 public String getMessage() {
-	        return "Hello from GreetingComponent BubuLuna";
+	        return "My cat name is BubuLuna";
 	    }
 }
